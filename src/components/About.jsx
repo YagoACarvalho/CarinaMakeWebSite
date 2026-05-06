@@ -26,7 +26,7 @@ function About() {
           className="flex flex-col justify-center"
         >
           <p className="mb-4 text-sm uppercase tracking-[0.35em] text-[#a77c5b]">
-            Sobre
+           
           </p>
 
           <h2 className="text-4xl font-semibold leading-tight md:text-5xl">

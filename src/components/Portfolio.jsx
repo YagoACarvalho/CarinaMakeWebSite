@@ -30,7 +30,6 @@ function Portfolio() {
         <div className="mb-12 flex flex-col justify-between gap-6 md:flex-row md:items-end">
           <div>
             <p className="mb-4 text-sm uppercase tracking-[0.35em] text-[#a77c5b]">
-              Portfólio
             </p>
 
             <h2 className="max-w-2xl text-4xl font-semibold leading-tight md:text-5xl">
