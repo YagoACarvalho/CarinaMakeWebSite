@@ -12,7 +12,7 @@ function About() {
           className="rounded-[2rem] bg-[#ead8cc] p-5"
         >
           <img
-            src="/src/assets/about-image.jpeg"
+            src="/about-image.jpeg"
             alt="Carina Paes Leme"
             className="aspect-[4/5] w-full rounded-[1.5rem] object-cover"
           />
