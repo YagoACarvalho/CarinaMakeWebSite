@@ -36,8 +36,12 @@ function Header() {
         <a
           href="#"
           className="text-sm font-semibold uppercase tracking-[0.25em] text-white md:text-[#2b211d]"
-        >
-          Carina
+        > 
+        <img
+        src="/logo.png"
+        alt="Carina Paes Leme"
+        className="h-10 w-auto object-contain"
+      />
         </a>
 
         <nav className="hidden items-center gap-8 text-sm text-white/80 md:flex">
@@ -52,7 +56,19 @@ function Header() {
           href={`https://wa.me/${siteData.whatsapp}`}
           target="_blank"
           rel="noreferrer"
-          className="hidden rounded-full bg-white/80 px-5 py-2.5 text-sm font-semibold text-[#2b211d] backdrop-blur-xl transition hover:bg-white md:block"
+          className="
+            hidden md:block
+            rounded-full
+            bg-[#25D366]
+            px-5 py-2.5
+            text-sm font-semibold
+            text-white
+            shadow-[0_8px_24px_rgba(37,211,102,0.35)]
+            transition-all
+            duration-300
+            hover:scale-[1.03]
+            hover:bg-[#1ebe5d]
+          "
         >
           Agendar
         </a>

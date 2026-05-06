@@ -2,7 +2,7 @@ export const siteData = {
     name: "Carina Paes Leme",
     role: "Maquiadora & Consultora de Imagem",
     location: "Miguel Pereira/RJ",
-    whatsapp: "5524999999999",
+    whatsapp: "5524981001874",
     instagram: "https://www.instagram.com/carinapaesleme/",
   
     hero: {

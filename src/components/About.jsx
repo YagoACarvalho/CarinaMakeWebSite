@@ -34,7 +34,7 @@ function About() {
           </h2>
 
           <p className="mt-6 text-lg leading-8 text-[#6d5a50]">
-            O trabalho da Carina une técnica, escuta e sensibilidade para criar
+            O trabalho une técnica, escuta e sensibilidade para criar
             produções que respeitam o estilo, a ocasião e a personalidade de cada
             mulher.
           </p>
