@@ -58,7 +58,7 @@ function Services() {
 
           <a
             href="#contact"
-            className="mt-8 inline-flex items-center gap-2 rounded-full border border-[#d6c5b8] bg-white/45 px-7 py-3 text-sm font-semibold text-[#2b211d] shadow-[0_8px_32px_rgba(0,0,0,0.05)] backdrop-blur-2xl transition hover:bg-white/75"
+            className="mt-8 inline-flex items-center gap-2 rounded-full border border-[#d6c5b8] bg-[#274485] /45 px-7 py-3 text-sm font-semibold text-white shadow-[0_8px_32px_rgba(0,0,0,0.05)] backdrop-blur-2xl transition hover:bg-[#274485]/75"
           >
             Falar sobre atendimento
             <FaArrowRight className="text-xs" />

@@ -62,7 +62,7 @@ function Process() {
               >
                 <div className="absolute -right-12 -top-12 h-32 w-32 rounded-full bg-[#d6b89f]/20 blur-2xl transition duration-500 group-hover:bg-[#d6b89f]/35" />
 
-                <div className="relative z-10 mb-8 flex h-14 w-14 items-center justify-center rounded-2xl border border-[#d6c5b8] bg-white/70 text-xl text-[#a77c5b] shadow-[inset_0_1px_0_rgba(255,255,255,0.6)] backdrop-blur-xl transition duration-500 group-hover:scale-110">
+                <div className="relative z-10 mb-8 flex h-14 w-14 items-center justify-center rounded-2xl bg-[#274485] text-xl text-white shadow-[0_10px_30px_rgba(39,68,133,0.35)] transition duration-500 group-hover:scale-110 group-hover:bg-[#3257a8]">
                   {step.icon}
                 </div>
 
