@@ -10,7 +10,7 @@ function Hero() {
         className="absolute inset-0 bg-cover bg-center"
         style={{
           backgroundImage:
-            "url('/image-hero.png')",
+            "url('/hero-image.jpeg')",
         }}
       />
 
